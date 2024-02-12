@@ -182,7 +182,7 @@ class Resume extends Component {
       <p class="text"><span class="bold">I am actively looking for summer internship opportunities.</span><br /><br />
       If you are hiring or are willing to collaborate with me on any project, please keep a copy of my latest resume for reference and feel free to contact me through my mentioned Contact Number 
       or any of my Social Media Handles. </p>
-      <img class="resume-image" src="https://github.com/karan2198/portfolio/blob/master/public/images/Resume.png?raw=true" />
+      <img class="resume-image" src="https://github.com/karan2198/portfolio/blob/main/public/images/Resume.png?raw=true" />
         <a href="https://drive.google.com/file/d/1XIAtIgrCOeAREQt5gmiMlzClioVdvthU/view?usp=drive_link" className="button"><i className="fa fa-download"></i>&nbsp; Download Resume</a>
       </div>
     </section>
