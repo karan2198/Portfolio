@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Karan Raj",
+    "description": "I am a Third-Year CSE Undergrad and a full stack web developer. I use React.js framework to develop pages. This is my resume. Feel free to check it out and leave me your opinion through the contact section.",
+    "image": "profilepic.jpg",
+    "bio_line1": "As a seasoned Software Developer deeply passionate about innovative solutions, I continually explore diverse frameworks👨🏻‍💻 to stay at the forefront of technology. My overarching objective is to leverage my extensive experience and skill set to effect positive change within the realm of technology🌐. I am actively seeking collaborative opportunities that align with my expertise.",
+    "bio_line2": "For a comprehensive overview of my skills and experiences, please peruse the subsequent section. If you believe there is a potential for mutually beneficial collaboration, kindly reach out to me through any of my social media channels. I eagerly anticipate exploring avenues where I can contribute to and thrive within the dynamic landscape of technology.",
+    "contactmessage": "Are you interested in working with me, or do you just wanna meet up for some chitchat? I love meeting and working with new people. Hit me up through the form below.",
+    "email": "karanrajgodansa2003@gmail.com",
+    "phone": "+91 7737606697",
+    "github":"https://github.com/karan2198",
+    "project":"https://github.com/karan2198/Portfolio",
+    "address":{
+      "street":"Old Block B-32 Police Line, Pali, Raj.",
+      "city":"Pali",
+      "state":"Rajasthan",
+      "zip": "306401"
+    },
+    "website": "/",
+    "resumedownload": "/",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/21ucs144",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/karan-raj-b5823822a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/___karan_raj___/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/karan2198",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education":[
+      {
+        "school":"National Institute of Technology, Agartala",
+        "degree":"Bachelor of Technology in Computer Science and Engineering",
+        "graduated":"December 2021 to November 2025 (Expected)"
+      },
+      {
+        "school":"Jawahar Navodaya Vidyalaya, Pali, RAJ.",
+        "degree":"CBSE(XII) with PCM+CS",
+        "graduated":"May 2020"
+      },
+      {
+        "school":"Jawahar Navodaya Vidyalaya, Pali, RAJ.",
+        "degree":"CBSE(X)",
+        "graduated":"May 2018"
+      }
+    ],
+    "work": [
+      {
+        "title": "News Website",
+        "tech" : "HTML/CSS, JavaScript, node.js, express.js",
+        "repoLink" : "https://github.com/karan2198/News-Website",
+        "description": {
+          "line1" : "Built a web application that utilizes NewsAPI to fetch real-time news articles.",
+          "line2" : "Implemented dynamic filtering system for personalized news feed. enable user to select preferred category and search for specific topic.",
+          "line3" : "Frontend deployed on Netlify, and backend on Cyclic hosting platform."
+        }
+      },
+      {
+        "title": "E-commerce Backend API",
+        "tech" : "JavaScript, node.js, express.js",
+        "repoLink" : "https://github.com/karan2198/News-Website",
+        "description": {
+          "line1" : "Developed a comprehensive backend API for an e-commerce website, providing essential functionality for seamless online shopping experiences.",
+          "line2" : "Designed and implemented a robust architecture to handle various aspects of the e-commerce platform, including user authentication, product management, and order processing.",
+          "line3" : "Implemented efficient database management to handle product catalogs, user profiles, and order history, ensuring data integrity and accessibility."
+        }
+      }
+    ],
+    "skills":[
+      {
+        "name":"C/C++",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      }
+    ],
+    "frameworks":[
+      {
+        "name":"ReactJS",
+        "logo":"./images/react.png",
+        "level":"70%"
+      },
+      {
+        "name":"Bootstrap",
+        "logo":"./images/Bootstrap.png",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "logo":"./images/node.png",
+        "level":"80%"
+      }
+    ],
+    "tools":[
+      {
+        "name":"Github",
+        "logo":"./images/github.png",
+        "level":"90%"
+      },
+      {
+        "name":"Visual Studio Code",
+        "logo":"./images/vsc.png",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "logo":"./images/MongoDB.png",
+        "level":"50%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
